@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PiScout</string>
+    <string name="Location">Location</string>
+    <string-array name="Auto_Location">
+        <item>Left</item>
+        <item>Right</item>
+        <item>Center</item>
+    </string-array>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
